@@ -1,0 +1,12 @@
+# Build-Ausgaben von ESP-IDF
+build/
+
+# Lokale ESP-IDF- und Editor-Dateien
+sdkconfig.old
+.cache/
+.vscode/
+.idea/
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
